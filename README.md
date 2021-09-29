@@ -33,5 +33,5 @@ arangorestore --input-directory dump --server.authentication=false --include-sys
 
 ### 5. Done!
 
-Enjoy exploring the abstract syntax tree!
+Enjoy exploring the abstract syntax tree at http://localhost:8529!
 
